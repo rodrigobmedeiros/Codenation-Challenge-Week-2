@@ -1,0 +1,20 @@
+{
+    "SC": {
+        "moda": 850,
+        "mediana": 653,
+        "media": 649.54,
+        "desvio_padrao": 97.23
+    },
+    "RS": {
+        "moda": 850,
+        "mediana": 650,
+        "media": 651.11,
+        "desvio_padrao": 95.14
+    },
+    "PR": {
+        "moda": 850,
+        "mediana": 650,
+        "media": 648.96,
+        "desvio_padrao": 98.61
+    }
+}
