@@ -22,16 +22,16 @@ You will need python 3.6 (or higher).
 ## Description of the data:
 
 
-'id': Customer identifier
-'sobrenome': Customer surname
-'pontuacao_credito': Customer credit score (the higher, the better the customer generally)
-'estado_residencia': Client's state of residence
-'genero': Customer gender
-'nivel_estabilidade': Customer stability level
-'saldo_conta': Customer account balance available
-'numero_produtos': Number of products the customer consumes
-'possui_cartao_de_credito': Has a registered credit card
-'membro_ativo': Member frequently accesses and consumes
+- 'id': Customer identifier
+- 'sobrenome': Customer surname
+- 'pontuacao_credito': Customer credit score (the higher, the better the customer generally)
+- 'estado_residencia': Client's state of residence
+- 'genero': Customer gender
+- 'nivel_estabilidade': Customer stability level
+- 'saldo_conta': Customer account balance available
+- 'numero_produtos': Number of products the customer consumes
+- 'possui_cartao_de_credito': Has a registered credit card
+- 'membro_ativo': Member frequently accesses and consumes
 
 
 
